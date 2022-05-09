@@ -23,7 +23,7 @@ dict = {'key1': 1, 'key2': 2}
 # dict.items() returns a list of tuples and we access 2 params at once
 for key, value in dict.items():
     print(key)
-	print(value)
+    print(value)
 ```
 
 More examples: https://www.programiz.com/python-programming/tuple

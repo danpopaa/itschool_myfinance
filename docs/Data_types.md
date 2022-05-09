@@ -56,9 +56,6 @@ I am too.
 
 more info about strings: https://realpython.com/python-data-types/#strings
 
-TODO: Add more info about string & comments (three ')
-
-
 Additional type, useful in math applications
 
 **complex numbers** -> specified by a real part and an imaginary part

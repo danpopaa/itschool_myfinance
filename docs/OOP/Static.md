@@ -8,15 +8,19 @@ Every variable in a class initiated with `self` is an instance variable. This me
 class A:
     x = 2 # this is a class variable
 
-	def __init__(self, m):
-		self.m = m # this is an instance variable
+    def __init__(self, m):
+        self.m = m # this is an instance variable
 
-	def f_1(self): #this is an instance method
-		return self.m
+    def f_1(self): #this is an instance method
+        return self.m
 
-	@staticmethod 
-	def f_2(): # this is a class method
-		return A.x
+    @staticmethod 
+    def f_2(): # this is a class method
+        return A.x
+	
+    @classmethod
+    def f_3(cls): # this is also a class method
+        return cls.A
 
 
 ob1 = A(4)
@@ -42,7 +46,6 @@ print(A.f_2()) # will print 2
 print(ob1.f_1()) # will print 4
 print(ob2.f_1()) # will print 6
 print(A.f_1()) # error
-
 
 ```
 

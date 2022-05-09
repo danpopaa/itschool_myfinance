@@ -6,9 +6,11 @@
 
 [[Conditions]]
 
-[[Exceptions]]
-
 [[Version_control]]
+
+[[OOP_index]]
+
+[[Exceptions]]
 
 [[Databases]]
 
@@ -20,12 +22,11 @@
 
 [[GUI]]
 
-[[OOP_index]]
-
-[[Functional_programming]]
+[[Logging_and_Formatting]]
 
 [[Libraries]]
 
-[[Logging_and_Formatting]]
+[[Functional_programming]]
 
 [[async]]
+

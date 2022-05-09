@@ -57,4 +57,5 @@ https://medium.com/design-patterns-in-python/template-method-pattern-34664e54051
 https://refactoring.guru/design-patterns/template-method/python/example
 https://www.geeksforgeeks.org/template-method-python-design-patterns/
 
-#TODO add Singleton
+**Singleton**
+https://python-patterns.guide/gang-of-four/singleton/

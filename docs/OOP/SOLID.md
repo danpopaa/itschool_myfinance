@@ -3,12 +3,12 @@ SOLID are a set of 5 programming principles, especially directed to Object Orien
 S - Single Responsibility Principle -> every class function should perform a single functionality
 
     -> functions
-			-> wrong: a function edits an element in a DB and deletes another element
-			-> right: a function edits an element in a DB, a different function deletes an element from DB
+        -> wrong: a function edits an element in a DB and deletes another element
+        -> right: a function edits an element in a DB, a different function deletes an element from DB
 	
-	-> classes
-			-> wrong: a class reads/writes to a DB and reads/writes to a file
-			-> right: a class has the responsibility to manage interactions with a DB (read & write), another class does this for a file
+    -> classes
+        -> wrong: a class reads/writes to a DB and reads/writes to a file
+        -> right: a class has the responsibility to manage interactions with a DB (read & write), another class does this for a file
 
 https://sobolevn.me/2019/03/enforcing-srp
 
@@ -29,8 +29,8 @@ https://dev.to/naomidennis/introduction-to-the-interface-separation-principle-3b
 D - Dependency Injection Principle -> High-level modules should not depend on low-level modules
 
     -> for example, we can have a shopping app
-			-> classes which represent the products we sell should not know which DB we use
-			-> if we change the DB, we should make no change in our product classes (or very minimal changes)
+        -> classes which represent the products we sell should not know which DB we use
+        -> if we change the DB, we should make no change in our product classes (or very minimal changes)
 
 https://python-dependency-injector.ets-labs.org/introduction/di_in_python.html
 

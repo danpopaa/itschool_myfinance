@@ -68,8 +68,7 @@ We can also use negative index. For example if we want the list without its last
 **Checking an element is in a list**
 
 ```
->>> a
-['foo', 'bar', 'baz', 'qux', 'quux', 'corge']
+>>> a = ['foo', 'bar', 'baz', 'qux', 'quux', 'corge']
 
 >>> 'qux' in a
 True
@@ -88,7 +87,7 @@ False
 -> use *`*`* for replication
 
 ```
-['foo', 'bar', 'baz', 'qux', 'quux', 'corge']
+a = ['foo', 'bar', 'baz', 'qux', 'quux', 'corge']
 
 >>> a + ['grault', 'garply']
 ['foo', 'bar', 'baz', 'qux', 'quux', 'corge', 'grault', 'garply']
