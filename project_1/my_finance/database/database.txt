@@ -58,5 +58,55 @@
     "exchange": "NYQ",
     "country": "United States",
     "numberOfEmployees": 1200
+  },
+  {
+    "ticker": "DRIO",
+    "company": "DarioHealth Corp.",
+    "amount": 0,
+    "field": "Healthcare",
+    "longSummary": "DarioHealth Corp. operates as a digital therapeutics company in the United States, Canada, the European Union, Australia, and New Zealand. The company offers Dario's metabolic solutions to address metabolic health needs, such as diabetes, hypertension, and weight management; Dario Musculoskeletal, which helps to prevent and treat the most common MSK conditions; Dario's behavioral health solution that optimizes access to evidence-based care; chronic condition management solutions; DarioEngage, a proprietary care management platform; and device-specific disposables test strip cartridges, lancets, and blood glucose monitoring systems. It also provides smart glucose meters; bluetooth connected blood pressure cuff; digital scales; biofeedback sensor devices; and diabetes management programs, including lifestyle changes, healthy eating, advanced tracking, and live coaching. The company was formerly known as LabStyle Innovations Corp. and changed its name to DarioHealth Corp. in July 2016. DarioHealth Corp. was incorporated in 2011 and is based in New York, New York.",
+    "exchange": "NCM",
+    "country": "United States",
+    "numberOfEmployees": 200
+  },
+  {
+    "ticker": "DRIO",
+    "company": "DarioHealth Corp.",
+    "amount": 0,
+    "field": "Healthcare",
+    "longSummary": "DarioHealth Corp. operates as a digital therapeutics company in the United States, Canada, the European Union, Australia, and New Zealand. The company offers Dario's metabolic solutions to address metabolic health needs, such as diabetes, hypertension, and weight management; Dario Musculoskeletal, which helps to prevent and treat the most common MSK conditions; Dario's behavioral health solution that optimizes access to evidence-based care; chronic condition management solutions; DarioEngage, a proprietary care management platform; and device-specific disposables test strip cartridges, lancets, and blood glucose monitoring systems. It also provides smart glucose meters; bluetooth connected blood pressure cuff; digital scales; biofeedback sensor devices; and diabetes management programs, including lifestyle changes, healthy eating, advanced tracking, and live coaching. The company was formerly known as LabStyle Innovations Corp. and changed its name to DarioHealth Corp. in July 2016. DarioHealth Corp. was incorporated in 2011 and is based in New York, New York.",
+    "exchange": "NCM",
+    "country": "United States",
+    "numberOfEmployees": 200
+  },
+  {
+    "ticker": "DRIO",
+    "company": "DarioHealth Corp.",
+    "amount": 0,
+    "field": "Healthcare",
+    "longSummary": "DarioHealth Corp. operates as a digital therapeutics company in the United States, Canada, the European Union, Australia, and New Zealand. The company offers Dario's metabolic solutions to address metabolic health needs, such as diabetes, hypertension, and weight management; Dario Musculoskeletal, which helps to prevent and treat the most common MSK conditions; Dario's behavioral health solution that optimizes access to evidence-based care; chronic condition management solutions; DarioEngage, a proprietary care management platform; and device-specific disposables test strip cartridges, lancets, and blood glucose monitoring systems. It also provides smart glucose meters; bluetooth connected blood pressure cuff; digital scales; biofeedback sensor devices; and diabetes management programs, including lifestyle changes, healthy eating, advanced tracking, and live coaching. The company was formerly known as LabStyle Innovations Corp. and changed its name to DarioHealth Corp. in July 2016. DarioHealth Corp. was incorporated in 2011 and is based in New York, New York.",
+    "exchange": "NCM",
+    "country": "United States",
+    "numberOfEmployees": 200
+  },
+  {
+    "ticker": "DRIO",
+    "company": "DarioHealth Corp.",
+    "amount": 0,
+    "field": "Healthcare",
+    "longSummary": "DarioHealth Corp. operates as a digital therapeutics company in the United States, Canada, the European Union, Australia, and New Zealand. The company offers Dario's metabolic solutions to address metabolic health needs, such as diabetes, hypertension, and weight management; Dario Musculoskeletal, which helps to prevent and treat the most common MSK conditions; Dario's behavioral health solution that optimizes access to evidence-based care; chronic condition management solutions; DarioEngage, a proprietary care management platform; and device-specific disposables test strip cartridges, lancets, and blood glucose monitoring systems. It also provides smart glucose meters; bluetooth connected blood pressure cuff; digital scales; biofeedback sensor devices; and diabetes management programs, including lifestyle changes, healthy eating, advanced tracking, and live coaching. The company was formerly known as LabStyle Innovations Corp. and changed its name to DarioHealth Corp. in July 2016. DarioHealth Corp. was incorporated in 2011 and is based in New York, New York.",
+    "exchange": "NCM",
+    "country": "United States",
+    "numberOfEmployees": 200
+  },
+  {
+    "ticker": "CRWD",
+    "company": "CrowdStrike Holdings, Inc.",
+    "amount": 0,
+    "field": "Technology",
+    "longSummary": "CrowdStrike Holdings, Inc. provides cloud-delivered protection across endpoints and cloud workloads, identity, and data. It offers threat intelligence, managed security services, IT operations management, threat hunting, Zero Trust identity protection, and log management. The company primarily sells subscriptions to its Falcon platform and cloud modules through its direct sales team that leverages its network of channel partners. It serves customers worldwide. The company was incorporated in 2011 and is based in Austin, Texas.",
+    "exchange": "NMS",
+    "country": "United States",
+    "numberOfEmployees": 4965
   }
 ]

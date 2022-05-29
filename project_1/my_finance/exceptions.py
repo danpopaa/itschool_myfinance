@@ -7,3 +7,6 @@ class StockNotFound(Exception):
 
 class CannotAddStock(Exception):
     pass
+
+class StockAlreadyAdded(Exception):
+    pass
