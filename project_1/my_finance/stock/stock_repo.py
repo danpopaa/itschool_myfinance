@@ -1,5 +1,5 @@
 from my_finance.stock.stock import Stock
-from my_finance.exceptions import StockNotFound, CannotAddStock
+from my_finance.exceptions import StockNotFound, CannotAddStock, StockAlreadyDeleted
 
 
 class StockRepository:

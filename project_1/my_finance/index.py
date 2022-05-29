@@ -85,6 +85,7 @@ def handle_stock_already_added(exception, request):
         content="The stock you add already saved in our app!", status_code=404
     )
 
+
 @app.exception_handler(StockAlreadyDeleted)
 def handle_stock_already_deleted(exception, request):
     return JSONResponse(

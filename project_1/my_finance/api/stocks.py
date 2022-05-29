@@ -53,9 +53,6 @@ def get_one_stock(ticker_id: str):
     return stocks_repo.get_by_ticker(ticker_id)
 
 
-# TODO add a put method to edit your domain item
-
-
 @stocks_router.delete("")
 def remove_stock(ticker: str):
     stocks_repo.remove(ticker)
