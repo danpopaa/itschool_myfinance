@@ -50,16 +50,6 @@
     "numberOfEmployees": 786
   },
   {
-    "ticker": "S",
-    "company": "SentinelOne, Inc.",
-    "amount": 0,
-    "field": "Technology",
-    "longSummary": "SentinelOne, Inc. operates as a cybersecurity provider in the United States and internationally. The company's Extended Detection and Response (XDR) data stack that fuses together the data, access, control, and integration planes of endpoint protection platform, endpoint detection and response, cloud workload protection platform, and IoT security into a centralized platform. Its Singularity XDR Platform delivers an artificial intelligence-powered autonomous threat prevention, detection, and response capabilities across an organization's endpoints; and cloud workloads, which enables seamless and automatic protection against a spectrum of cyber threats. The company was formerly known as Sentinel Labs, Inc. and changed its name to SentinelOne, Inc. in March 2021. SentinelOne, Inc. was incorporated in 2013 and is headquartered in Mountain View, California.",
-    "exchange": "NYQ",
-    "country": "United States",
-    "numberOfEmployees": 1200
-  },
-  {
     "ticker": "DRIO",
     "company": "DarioHealth Corp.",
     "amount": 0,
@@ -98,15 +88,5 @@
     "exchange": "NCM",
     "country": "United States",
     "numberOfEmployees": 200
-  },
-  {
-    "ticker": "CRWD",
-    "company": "CrowdStrike Holdings, Inc.",
-    "amount": 0,
-    "field": "Technology",
-    "longSummary": "CrowdStrike Holdings, Inc. provides cloud-delivered protection across endpoints and cloud workloads, identity, and data. It offers threat intelligence, managed security services, IT operations management, threat hunting, Zero Trust identity protection, and log management. The company primarily sells subscriptions to its Falcon platform and cloud modules through its direct sales team that leverages its network of channel partners. It serves customers worldwide. The company was incorporated in 2011 and is based in Austin, Texas.",
-    "exchange": "NMS",
-    "country": "United States",
-    "numberOfEmployees": 4965
   }
 ]

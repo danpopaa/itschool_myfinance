@@ -18,7 +18,7 @@ from my_finance.stock.stock_repo import StockRepository
 from my_finance.configuration.config import Configuration
 from my_finance.database.stock_file_persistance import StockFilePersistance
 from my_finance.database.stock_sql_persistance import StockSqlPersistance
-from my_finance.exceptions import StockNotFound, StockAlreadyAdded
+from my_finance.exceptions import StockNotFound, StockAlreadyAdded, StockAlreadyDeleted
 from my_finance.api.stocks import stocks_router
 from my_finance.api.health import health_router
 from my_finance.api.diagrams import diagrams_router
@@ -85,3 +85,8 @@ def handle_stock_already_added(exception, request):
         content="The stock you add already saved in our app!", status_code=404
     )
 
+@app.exception_handler(StockAlreadyDeleted)
+def handle_stock_already_deleted(exception, request):
+    return JSONResponse(
+        content="The stock you want to delete isn't in our app!", status_code=404
+    )

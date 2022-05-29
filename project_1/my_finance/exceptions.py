@@ -10,3 +10,7 @@ class CannotAddStock(Exception):
 
 class StockAlreadyAdded(Exception):
     pass
+
+
+class StockAlreadyDeleted(Exception):
+    pass
