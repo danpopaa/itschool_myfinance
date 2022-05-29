@@ -27,7 +27,7 @@ app = FastAPI(
     title="Finance Stocks App",  # TODO for homework, name your application
     # <major_version>.<minor_version>.<patch_version>
     version="1.0.0",  # increase version after finishing homework
-    description="create your stocks investment portfolio",  # TODO add a description
+    description="create your stocks investment portfolio app",  # TODO add a description
 )
 app.include_router(stocks_router)
 app.include_router(health_router)
@@ -45,9 +45,8 @@ logging.basicConfig(filename="finance.log", encoding="utf-8", level=logging.DEBU
 logging.info("Starting the finance app ...")
 
 
-# TODO create a get for a single stock, we give the ticker and receive more information
-# additional information: long summary, on which exchange it is, country, number of employees, industry
 
+# additional information: long summary, on which exchange it is, country, number of employees, industry
 
 @app.on_event("startup")
 def load_list_of_items():

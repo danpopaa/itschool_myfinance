@@ -1,4 +1,4 @@
-This is our repo for the finance stocks app. 
+This is the repo for the finance stocks app. 
 Please follow below steps in order to get the app running:
 
 step1: 
